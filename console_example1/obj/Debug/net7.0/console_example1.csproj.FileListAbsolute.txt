@@ -1,0 +1,15 @@
+C:\codes\examples\console_example1\bin\Debug\net7.0\console_example1.exe
+C:\codes\examples\console_example1\bin\Debug\net7.0\console_example1.deps.json
+C:\codes\examples\console_example1\bin\Debug\net7.0\console_example1.runtimeconfig.json
+C:\codes\examples\console_example1\bin\Debug\net7.0\console_example1.dll
+C:\codes\examples\console_example1\bin\Debug\net7.0\console_example1.pdb
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.csproj.AssemblyReference.cache
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.AssemblyInfoInputs.cache
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.AssemblyInfo.cs
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.csproj.CoreCompileInputs.cache
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.dll
+C:\codes\examples\console_example1\obj\Debug\net7.0\refint\console_example1.dll
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.pdb
+C:\codes\examples\console_example1\obj\Debug\net7.0\console_example1.genruntimeconfig.cache
+C:\codes\examples\console_example1\obj\Debug\net7.0\ref\console_example1.dll

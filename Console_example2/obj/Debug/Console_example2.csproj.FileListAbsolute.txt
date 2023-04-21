@@ -1,0 +1,8 @@
+C:\codes\examples\Console_example2\bin\Debug\Console_example2.exe.config
+C:\codes\examples\Console_example2\bin\Debug\Console_example2.exe
+C:\codes\examples\Console_example2\bin\Debug\Console_example2.pdb
+C:\codes\examples\Console_example2\obj\Debug\Console_example2.csproj.AssemblyReference.cache
+C:\codes\examples\Console_example2\obj\Debug\Console_example2.csproj.SuggestedBindingRedirects.cache
+C:\codes\examples\Console_example2\obj\Debug\Console_example2.csproj.CoreCompileInputs.cache
+C:\codes\examples\Console_example2\obj\Debug\Console_example2.exe
+C:\codes\examples\Console_example2\obj\Debug\Console_example2.pdb
